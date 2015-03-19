@@ -386,6 +386,8 @@ footer .footer-below {
   opacity: 0;
   display: none;
 }
-.logo {
-  height: 400px;
+.logo{
+  height: 75px;
+  position: relative;
+  top: -25px;
 }
